@@ -6,7 +6,7 @@ Change the background color with a single button! Change the text color with a s
 
 ### App Walk-though
 
-<img src="https://imgur.com/cRjEFAA” width=200><br>
+<img src= https://i.imgur.com/cRjEFAA.gif width=200><br>
 
 ### Required User Stories
 - [ x] 1. User sees custom text in a label - Hello from {name}!
