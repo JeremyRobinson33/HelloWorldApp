@@ -1,14 +1,12 @@
 ## HelloWorldApp
 
 ### App Description
-`TODO://` Change the background color with a single button! Change the text color with a single button! 
+Change the background color with a single button! Change the text color with a single button! 
 		Change input some text and then click a button to change the text!
 
 ### App Walk-though
 
-<img src="https://i.imgur.com/cRjEFAA.gifv” width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+<img src="https://i.imgur.com/cRjEFAA.gif” width=200><br>
 
 ### Required User Stories
 - [ x] 1. User sees custom text in a label - Hello from {name}!
